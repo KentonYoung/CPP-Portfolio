@@ -37,3 +37,33 @@ return 0;
 Sources:
 https://www.youtube.com/watch?v=tT8ICXAO_-4&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M&index=5
 https://www.youtube.com/watch?v=m5zt6eCCgN0
+
+
+#include<iostream>
+using namespace std
+
+int main() //tell someone what grade to go to based off the age they enter
+{
+int iAge;
+int iAgeKidnegarten;
+int iAgeGrade;
+int iHighSchool;
+
+cout << "Please enter your age.";
+getline(cin, iAge);
+
+if (iAge >= iHighSchool);
+{
+cout << "You should enroll in high school!");
+}
+else if ((iAge < iHighSchool) && (iAge > iKidnegarten));
+{
+cout << " You should be in Elementary School!);
+}
+else if (iAge <= iKidnegarten);
+}
+cout << "Welcome to Kidnegarten!";
+}
+
+}
+
