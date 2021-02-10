@@ -1,0 +1,39 @@
+1) Install Visual Studio
+2) Get C++ Extension
+3) Get Github Extension
+4) Write array practice and make sure it commit to github
+5) Go to general collections
+
+Notation
+int camelBack;
+int iHungarian
+char cHungarian
+
+Conditional Statement, Logic, Arrays/Vectors
+
+Conditional Operators (inequalities/not/==) >= =< == > <
+Logical operators (Boolean) && || !
+
+#include <library>
+using functionnamespace name
+(using namespace std)
+
+if ((nAge >= 1) && (nAge <= 18))
+{
+cout << "Important Birthday)
+}
+else if ((nAge ==21) || )nAge ==50))
+{
+cout << "Important Birthday
+}
+
+int main()
+{
+getline(cin, sAge);
+int nAge = stoi(sAge)
+return 0;
+}
+
+Sources:
+https://www.youtube.com/watch?v=tT8ICXAO_-4&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M&index=5
+https://www.youtube.com/watch?v=m5zt6eCCgN0
