@@ -1,1 +1,38 @@
 
+https://www.youtube.com/watch?v=RBSGKlAvoiM&t=926s
+Big O notation. An upper bound on complexity of an algorithm with the worst theoretical outputs.
+
+Constant Time: 0(1)
+Logarithmic Time: 0(log(n))
+Linear Time: 0(n)
+Linearithmic Time: O(nlog(n))
+Quadric TYime: O(n^2))
+Cubic Time: O(n^3))
+Exponential Time: O(b^n)
+Factorial Time: O(n!)
+
+Big O Properties (What happens when you have a hug clunky input)
+
+O(n +c) = )(O(n) Ignore constants added or multiplied to infinitly large inputs
+
+runtime function will be called f(n)
+
+f(n) 7log(n)^3 + 15n^2 + 2n^3 +8
+O(f(n)) = O(n^3)- In other words what complexity term will moste effect run time
+The type of complexity will be described by the algabraic dependance on n(Complexity Driver) 
+
+https://www.youtube.com/watch?v=BBpAmxU_NQo
+Big O Notation, What is the limiting behavior of an algorithm
+An algorithm performance quantification
+Different Data Structures will effect the complexity of an Algorithms
+
+Non Looping Variable run in constant time
+The run time of a single loop will increase linearly with the size of the their input
+Nested loop complexity will increase exponentionally
+Logarithmic is fairly asymptotic, as your algorithm executes it decreases it's own complexity by half (Binary Search)
+Exponential is the opposit of logarithmic, the computational cost increases during execution
+
+Big O Notation Can Also be used to understand memory storage complexity
+
+Arrays
+Linked Lists
